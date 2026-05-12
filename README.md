@@ -2,7 +2,7 @@ Svelte Data Grid | Svelte Table
 
 <img width="100" height="100" alt="svgrid" src="https://github.com/user-attachments/assets/1f73d06a-e4de-4bd5-991e-c466b22cb02d" />
 
-#Svgrid
+# Svgrid
 
 A high-performance, enterprise-ready Data Grid for Svelte
 

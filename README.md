@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="svgrid" src="https://github.com/user-attachments/assets/1f73d06a-e4de-4bd5-991e-c466b22cb02d" />Svgrid
+<img width="36" height="36" alt="svgrid" src="https://github.com/user-attachments/assets/1f73d06a-e4de-4bd5-991e-c466b22cb02d" />Svgrid
 
 A high-performance, enterprise-ready Data Grid for Svelte
 
